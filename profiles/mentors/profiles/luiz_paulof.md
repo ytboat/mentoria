@@ -19,4 +19,4 @@ Mentor para desenvolvedores Wordpress e Woocommerce
 
 ## Pupilos do Luiz Paulo Ferreira
 
-- [Anderson Nascimento](/profiles/pupils/profiles/AndersonNascimento.md)
+nenhum no momento.
